@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TAI Community//Meetings 2026-2027//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:קהילת TAI — תשפ״ז
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VTIMEZONE
+TZID:Asia/Jerusalem
+BEGIN:DAYLIGHT
+DTSTART:20260327T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=FR;BYMONTHDAY=23,24,25,26,27,28,29
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T020000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:tai-202540-2026-1@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;TZID=Asia/Jerusalem:20261111T190000
+DTEND;TZID=Asia/Jerusalem:20261111T211500
+SUMMARY:קהילת TAI — מפגש פתיחה
+DESCRIPTION:זום\nלפי הסילבוס שנמסר. פרטים ועדכ
+ ונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-2@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261206
+SUMMARY:קהילת TAI — עבודה א־סינכרונית
+DESCRIPTION:תקופת עבודה עצמאית\; בסילבוס צוינ
+ ו 17:00–20:00. אין מפגש יומי.\nלפי הסילבוס שנ
+ מסר. פרטים ועדכונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-3@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:קהילת TAI — מפגש ארצי
+DESCRIPTION:השעה תפורסם בנפרד\nלפי הסילבוס שנ
+ מסר. פרטים ועדכונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-4@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;TZID=Asia/Jerusalem:20261227T200000
+DTEND;TZID=Asia/Jerusalem:20261227T213000
+SUMMARY:קהילת TAI — מפגש בזום
+DESCRIPTION:זום\nלפי הסילבוס שנמסר. פרטים ועדכ
+ ונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-5@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270125
+SUMMARY:קהילת TAI — עבודה א־סינכרונית
+DESCRIPTION:תקופת עבודה עצמאית\; בסילבוס צוינ
+ ו 17:00–20:00. אין מפגש יומי.\nלפי הסילבוס שנ
+ מסר. פרטים ועדכונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-6@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;TZID=Asia/Jerusalem:20270125T200000
+DTEND;TZID=Asia/Jerusalem:20270125T213000
+SUMMARY:קהילת TAI — מפגש בזום
+DESCRIPTION:זום\nלפי הסילבוס שנמסר. פרטים ועדכ
+ ונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-7@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:קהילת TAI — כנס קהילות בטכניון
+DESCRIPTION:השעה תפורסם בנפרד\nלפי הסילבוס שנ
+ מסר. פרטים ועדכונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-8@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270321
+SUMMARY:קהילת TAI — עבודה א־סינכרונית
+DESCRIPTION:תקופת עבודה עצמאית\; בסילבוס צוינ
+ ו 17:00–20:00. אין מפגש יומי.\nלפי הסילבוס שנ
+ מסר. פרטים ועדכונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tai-202540-2026-9@codex.local
+DTSTAMP:20261019T060000Z
+DTSTART;TZID=Asia/Jerusalem:20270321T200000
+DTEND;TZID=Asia/Jerusalem:20270321T213000
+SUMMARY:קהילת TAI — מפגש סיכום בזום
+DESCRIPTION:זום\nלפי הסילבוס שנמסר. פרטים ועדכ
+ ונים בכיתת הקהילה.
+URL:https://classroom.google.com/c/ODkyOTQ4NTc0ODc3?cjc=evsrs5gz
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
